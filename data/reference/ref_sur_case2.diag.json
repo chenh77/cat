@@ -1,0 +1,14 @@
+{
+  "scale": "quick",
+  "seed": 2026,
+  "n_chains": 4,
+  "num_warmup": 2000,
+  "num_samples": 20000,
+  "dim": 5,
+  "n_modes_discovered": 3,
+  "divergence_rate": 0.0,
+  "rhat_max": 1.0041694745866776,
+  "rhat_mean": 1.0020724281868676,
+  "wall_s_mavi": 10.851998805999756,
+  "wall_s_nuts": 7.843214988708496
+}

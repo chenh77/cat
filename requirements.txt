@@ -1,0 +1,13 @@
+jax==0.9.0
+jaxlib==0.9.0
+flax==0.12.5
+optax==0.2.6
+jaxopt==0.8.5
+# FAB (vendored fab-jax) only
+distrax==0.1.9
+blackjax==1.5
+chex==0.1.91
+tfp-nightly==0.26.0.dev20260730
+numpy==2.4.3
+scipy==1.16.0
+matplotlib==3.10.8

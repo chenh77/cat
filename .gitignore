@@ -1,0 +1,23 @@
+# experiment outputs (regenerable)
+experiments/results/
+experiments/figures/
+
+# Python
+__pycache__/
+*.py[co]
+.ipynb_checkpoints/
+
+# environment and editor
+.env/
+.venv/
+.DS_Store
+.vscode/
+.idea/
+
+# cluster logs
+logs/
+*.out
+*.err
+
+# paper drafts 
+docs/*.pdf
