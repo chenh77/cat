@@ -1,6 +1,6 @@
 # CAT
 
-Code for the paper *Transport along Local Annealing Paths: Wasserstein Geometry and Multimodal Sampling*.
+Code for the paper [*Transport along Local Annealing Paths: Wasserstein Geometry and Multimodal Sampling*](https://arxiv.org/abs/2611.05605).
 
 This repository contains:
 
@@ -33,7 +33,6 @@ src/
   utils/         evaluation metrics (eval.py), oracle-cost accounting (budget.py), linear algebra (numeric.py)
 experiments/     run, evaluation and plotting scripts (below)
 data/            posteriordb datasets, NUTS reference draws, SUR data (see data/README.md)
-docs/            documentation (TBD)
 ```
 
 ## Methods
